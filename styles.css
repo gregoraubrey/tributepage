@@ -1,1 +1,54 @@
-/* Copy and paste your CSS from CodePen into here */
+<style>
+
+* {
+  padding: 0px;
+  border: 0px;
+}
+
+#main {
+  font-size: 20px;
+  color: rgb(0,0,0);
+  font-family: Georgia, serif, monospace;
+  background-color: lightyellow;
+  text-align: center;
+}
+
+#image {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: auto;
+  border-color: rgb(150,150,150);
+  border-width: 5px;
+  border-style: solid;
+  max-width: 100%;
+  max-height: auto;
+  width: 25%;
+}
+
+#img-caption {
+  padding: 15px;
+}
+
+#tribute-info {
+  display: inline-block;
+  text-align: left;
+}
+
+li {
+  margin: 20px;
+}
+
+
+.quotation {
+  border-color: rgb(150,150,150);
+  border-width:10px;
+  border-style: double;
+  padding: 5px 5px 47px 5px;
+}
+
+#tribute-link {
+  color: blue;
+}
+
+</style>
